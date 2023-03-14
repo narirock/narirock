@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narirock&label=Profile%20views&color=0e75b6&style=flat" alt="narirock" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narirock" alt="narirock" /></a> </p>
-
 - 🔭 I’m currently working on [Marrs Studio](https://site.marrs.com.br/)
 
 - 💬 Ask me about **php, angular, vuejs, flutter**
